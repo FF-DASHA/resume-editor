@@ -1,3 +1,9 @@
 body {
-background-color: rgb(146, 130, 108);
+    background-color: rgb(146, 130, 108);
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
 }
